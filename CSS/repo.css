@@ -1,6 +1,18 @@
 img{
-    width: 30%;
+    width: 100%;
+    border-radius: 20px;
 }
 h2{
-    color: pink;
+    color: rgb(238, 112, 29);
+}
+p{
+    margin-left: 20px;
+    font-size: x-large;
+    text-align: center;
+}
+nav{
+    background: linear-gradient(yellow, pink)
+}
+body{
+    background: linear-gradient( #FE90AF, #C6EA8D, #38EF7D );
 }
